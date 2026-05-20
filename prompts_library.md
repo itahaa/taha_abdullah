@@ -64,7 +64,7 @@ PRODUCT DETAILS:
 - السعر: [X] جنيه
 - الكاتيجوري: [Beauty / Home / Fashion / Health / Kitchen]
 - المشكلة اللي بيحلها: [جملة واحدة]
-- التارجيت: ستات مصريات، سن [AGE RANGE]
+- التارجيت: مصريين (broad — بدون تحديد سن أو جنس)
 - الإيموشن الأساسي: [Insecurity / Aspiration / Curiosity / Social Proof / Fear / Convenience]
 
 RULES FOR THIS BATCH:
@@ -153,7 +153,7 @@ PRODUCT INFO:
 
 قيّم على:
 
-1. MARKET FIT: بيحل مشكلة حقيقية ومتكررة للستات المصريات 23-45؟ Rate 1-5 وفسّر.
+1. MARKET FIT: بيحل مشكلة حقيقية ومتكررة للمصريين عموماً؟ Rate 1-5 وفسّر. (Taha بيشتغل broad — مش مقيد بسن أو جنس)
 
 2. PRICE PSYCHOLOGY: السعر في النطاق الصح لـ Egypt COD في الكاتيجوري دي؟ إيه السعر الأمثل للتيست؟
 
@@ -184,7 +184,7 @@ PRODUCT INFO:
 
 المنتج: [NAME]
 السعر: [X] EGP (COD)
-التارجيت: ستات مصريات [AGE RANGE]
+التارجيت: مصريين — broad (بدون تحديد سن أو جنس)
 الـ placement: [Facebook Feed / Reels / Stories]
 
 REWRITE RULES:
@@ -254,7 +254,7 @@ QUICK WINS:
 بيشتغل من إمتى: [لو عارف من Ad Library]
 
 TEARDOWN:
-1. HOOK MECHANIC: نوعه إيه؟ ليه بيشتغل مع الستات المصريات؟
+1. HOOK MECHANIC: نوعه إيه؟ ليه بيشتغل مع الأوديانس المصري broad؟
 2. TRUST SIGNALS: عامل إيه من إشارات COD والثقة؟
 3. COPY ANGLE: الإيموشن الأساسي إيه؟
 4. THE STRONG PARTS: أهم 2-3 عناصر بتخليه يشتغل

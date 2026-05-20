@@ -15,7 +15,7 @@ Does it stop the scroll in the first 1–3 seconds?
 | **2** | Recognizable hook structure but execution is flat. Mild scroll-stop potential. Forgettable within 5 seconds. |
 | **3** | Decent hook. Clear problem/curiosity/demo opener. Stops some scrollers but won't consistently grab cold traffic. |
 | **4** | Strong hook. Clear emotional pull — pain, curiosity, or desire. First 3 seconds make the viewer want to watch more. |
-| **5** | Irresistible. Pattern interrupt + emotional trigger. Egyptian women aged 23–45 will stop, lean in, and watch. Could be a bold claim, a shocking visual, a relatable problem shown viscerally. |
+| **5** | Irresistible. Pattern interrupt + emotional trigger. The target Egyptian buyer will stop, lean in, and watch. Could be a bold claim, a shocking visual, a relatable problem shown viscerally. Works for broad targeting — the creative itself does the demographic filtering. |
 
 **Hook types to recognize:**
 - **Problem-agitation:** Opens showing the pain directly
@@ -112,13 +112,13 @@ Does this creative make people comment, save, or share?
 | **0** | Nothing in the creative invites any engagement. Pure broadcast, no conversation trigger. |
 | **1** | Low engagement signal. Maybe a generic "شاركي مع صديقاتك" but no real hook to act on. |
 | **2** | Some comment bait (a question or relatable situation) but it feels forced. Low organic engagement expected. |
-| **3** | One clear engagement trigger — either a question that makes women tag friends, OR a save-worthy tip/list. |
-| **4** | Strong comment bait (relatable problem that makes women say "أنا كمان كده") OR strong save trigger (useful information). |
+| **3** | One clear engagement trigger — either a question that makes people tag friends, OR a save-worthy tip/list. |
+| **4** | Strong comment bait (relatable problem that makes buyers say "أنا كمان كده") OR strong save trigger (useful information). |
 | **5** | Both: a comment trigger (tagging, agreeing, sharing experience) AND a save/share trigger (useful, funny, or emotionally resonant enough to forward to friends). Comments will run, lowering CPM. |
 
-**Engagement triggers that work for Egyptian women:**
-- **Tag bait:** "وريها لصاحبتك اللي بتحتاجها" / "بعتيلك عشان فاكراكي"
-- **Relate bait:** A situation so common women comment "أنا كمان بعاني من ده"
+**Engagement triggers that work for Egyptian buyers:**
+- **Tag bait:** "وريه لحد محتاجه" / "بعتهولك عشان فاكراك"
+- **Relate bait:** A situation so common buyers comment "أنا كمان بعاني من ده"
 - **Poll/question:** "إيه رأيك؟" or "جربتي قبل كده؟"
 - **Save trigger:** A tip, recipe, or hack they'll want to reference later
 - **Share trigger:** Something funny or surprising enough to send to a friend

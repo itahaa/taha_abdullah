@@ -20,22 +20,21 @@ Note: Use CONFIRMED orders, not total leads. Confirm rate is the critical multip
 
 ## Target Audience
 
-### Primary: Egyptian Women 23–45
-- **Location focus:** Tier 2–3 cities outperform Cairo for COD — Alexandria, Mansoura, Tanta, Assiut, Zagazig, Sohag, Beni Suef
+### Targeting Strategy: Broad
+Taha runs **broad targeting** — no age restriction, no gender restriction. Meta gets full freedom to optimize. The creative itself does the filtering.
+
+- **Location:** Egypt only
+- **Age/Gender:** Unrestricted — broad
+- **Interests:** None (broad) — let Meta find the buyers
 - **Device:** 95%+ mobile, primarily Android
 - **Connectivity:** 4G/LTE standard; avoid heavy video files > 30MB
-- **Shopping behavior:** Impulse-driven, price-sensitive, community-influenced (WhatsApp groups, Facebook groups)
-- **Trust threshold:** Higher than average — they need multiple reassurances before ordering
-
-### Secondary: Egyptian Women 18–22 (younger, trend-sensitive)
-- More responsive to social proof and influencer-style UGC
-- Lower AOV but higher impulse rate
+- **Shopping behavior:** Impulse-driven, price-sensitive, community-influenced
 
 ### Audience building priority:
-1. Lookalike from confirmed orders (best signal)
-2. Lookalike from add-to-cart / initiate checkout
-3. Interest targeting: women's fashion, beauty, home, baby products, cooking
-4. Broad (age + gender only) — works well when pixel is trained
+1. **Broad (no interests, no age/gender filter)** — default for all new tests
+2. Lookalike from confirmed orders (best signal, use after pixel has 50+ conversions)
+3. Lookalike from leads list (use when no purchase data yet)
+4. Interest targeting — only if broad fails after 5+ days and CPL > 45 EGP
 
 ---
 
@@ -109,7 +108,7 @@ Every creative and landing page MUST include at minimum 3 of these 5:
 ## Product Selection Rules
 
 ### Green light (COD-friendly products):
-- Solves a daily pain for Egyptian women (cleaning, beauty, cooking, baby care)
+- Solves a daily pain for Egyptians (cleaning, beauty, cooking, baby care, home, tools)
 - Price point: 150–400 EGP sweet spot
 - Ships from Egypt: 2–5 day delivery
 - Has visible "wow factor" that works on video
